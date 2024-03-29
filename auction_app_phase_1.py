@@ -3,7 +3,7 @@ from diagrams.generic.blank import Blank
 from diagrams.custom import Custom
 
 with Diagram("Phase 1: Forward Auctions for Sellers", show=False, direction="TB"):
-    farmer = Custom("Farmer", "blob:https://designs.ai/3cbae3f9-d70e-4f49-b453-cd03a8a17855")  # Path to a farmer icon
+    farmer = Custom("Farmer", "./icons/farmer.png")  # Path to a farmer icon
     auction_manager = Custom("Auction Manager", "./icons/auction_manager.png")  # Path to an auction manager icon
     buyer = Custom("Buyer", "./icons/buyer.png")  # Path to a buyer icon
     warehouse = Custom("Warehouse", "./icons/warehouse.png")  # Path to a warehouse icon
