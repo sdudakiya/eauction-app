@@ -1,3 +1,8 @@
+## Phase 1: Forward Auctions for Sellers Process Flow
+
+Below is the process flow for Phase 1 of the Forward Auctions for Sellers, visualized using an ASCII flowchart.
+
+```plaintext
 +--------------------------------+     +--------------------------------+
 | Initiation by Farmer           |     | Sample and Consent Management  |
 | - Farmer decides to auction    |     | - Farmer sends samples         |
