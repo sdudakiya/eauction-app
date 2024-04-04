@@ -12,10 +12,11 @@ Below is the process flow for Phase 1 of the Forward Auctions for Sellers, visua
                                                V
                                     +-------------------------------+
                                     | Auction Manager's Role        |
-                                    | - Receives samples and consent|
+                                    | - Receives samples and consent, Material Video/Photos |
                                     | - Lab testing of samples      |
-                                    | - Secures and tags goods      |
-                                    | - Document preparation        |
+                                    | - Secures and tags goods & send details to HQ |
+                                    | - Document preparation (Lab report) |
+                                    | - Warehouse accrediation (Goods storage) |
                                     +-------------------------------+
                                                |
                                                V
@@ -28,6 +29,7 @@ Below is the process flow for Phase 1 of the Forward Auctions for Sellers, visua
                                     +-------------------------------+
                                     | Bidding Process               |
                                     | - Buyers place bids           |
+                                    | - Initailly x top buyers would be shortlisted for further auctioning | 
                                     +-------------------------------+
                                                |
                                                V
