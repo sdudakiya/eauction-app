@@ -48,6 +48,7 @@ App Objective: To provide a seamless and efficient platform for conducting onlin
 User Needs: Users need an intuitive platform that allows them to participate in auctions easily, track their bids, and manage their listings with minimal effort.
 Assumptions and Dependencies: It is assumed that users will have internet access and a basic understanding of how auctions work. The app's performance is dependent on the server's ability to handle multiple real-time connections.
 3. System Features and Requirements
+
 3.1 User Accounts
 Functional Requirements:
 Users can create, edit, and delete their accounts.
@@ -56,6 +57,7 @@ Ability to recover forgotten passwords.
 Non-Functional Requirements:
 Secure storage of user credentials.
 User-friendly account management interface.
+
 3.2 Auction Listings
 Functional Requirements:
 Users can create, edit, and delete auction listings.
@@ -64,6 +66,7 @@ Real-time updates for bids and auction timers.
 Non-Functional Requirements:
 High-quality images with fast loading times.
 Scalable database architecture to handle numerous listings.
+
 3.3 Bidding System
 Functional Requirements:
 Users can place bids on items, with the option to enter a maximum bid amount.
@@ -72,6 +75,7 @@ Automatic bid increments based on predefined criteria.
 Non-Functional Requirements:
 Real-time data processing for bid updates.
 Secure and fair bidding process to prevent fraud.
+
 3.4 Payment and Shipping
 Functional Requirements:
 Integration with popular payment gateways (e.g., PayPal, Stripe).
@@ -80,6 +84,7 @@ Options for sellers to specify shipping methods and costs.
 Non-Functional Requirements:
 Compliance with financial data protection standards.
 Reliable payment processing with error handling.
+
 3.5 Notifications and Alerts
 Functional Requirements:
 Email and in-app notifications for auction updates, bid statuses, and payment confirmations.
@@ -87,6 +92,7 @@ Customizable notification settings.
 Non-Functional Requirements:
 Timely and reliable delivery of notifications.
 User-friendly notification management interface.
+
 3.6 Support and Help
 Functional Requirements:
 FAQ section for immediate help.
@@ -94,6 +100,7 @@ Contact form for direct support inquiries.
 Non-Functional Requirements:
 Easy-to-navigate help section.
 Prompt response system for support inquiries.
+
 4. Performance Requirements
 The app should support thousands of concurrent users without significant performance degradation.
 Auction updates and bid processing should occur in real-time with minimal latency.
